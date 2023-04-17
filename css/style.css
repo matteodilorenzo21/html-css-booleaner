@@ -59,3 +59,30 @@ th{
 .tr-coloured{
     background-color: rgba(0, 255, 255, 0.159);
 }
+
+#footer-title{
+    color: rgb(110, 110, 110);
+}
+
+#next-page-1{
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    height: 220px;
+    width: 250px;
+}
+
+#next-page-2{
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    height: 220px;
+    width: 250px;
+    padding-top: 10px;
+}
+
+.next-page-text{
+    color: rgb(200, 200, 200);
+    font-size: 18px;
+    text-align: start;
+    margin-top: 0px;
+    margin-left: 3%;
+}

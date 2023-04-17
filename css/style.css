@@ -38,3 +38,7 @@ figure{
 figcaption{
     font-size: 12px;
 }
+
+#todo-list{
+    margin-left: -24px;
+}

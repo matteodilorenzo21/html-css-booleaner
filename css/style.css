@@ -15,3 +15,26 @@ header{
     width: 300px;
     padding-left: 20%;
 }
+
+#main-container{
+    padding-left: 17%;
+    padding-right: 17%;
+}
+
+#main-title{
+    font-size: 33px;
+}
+
+#thebooleaner-color{
+    color: rgb(0, 89, 255);
+}
+
+figure{
+    width: 1050px;
+    display: inline-block;
+    margin-left: 0px;
+}
+
+figcaption{
+    font-size: 12px;
+}

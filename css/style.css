@@ -42,3 +42,20 @@ figcaption{
 #todo-list{
     margin-left: -24px;
 }
+
+table{
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table-header{
+    background-color: rgb(60, 140, 205);
+}
+
+th{
+    color: white;
+    text-align: left;
+}
+.tr-coloured{
+    background-color: rgba(0, 255, 255, 0.159);
+}
